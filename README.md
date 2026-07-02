@@ -15,9 +15,6 @@
 
 ## 工具列表
 
-目前还没有公开发布的小工具。
-
-等工具发布后，这里会按下面的格式维护列表：
-
 | 项目名称 | 中文名称 | 工具使用说明 |
 |---|---|---|
+| `yuan-image-redactor` | 图片打码工具 | [工具使用说明](https://github.com/yuan0727/yuan-image-redactor/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
