@@ -24,3 +24,4 @@
 | `yuan-text-counter` | 文本计数器 | [工具使用说明](https://github.com/yuan0727/yuan-text-counter/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-timestamp-converter` | 时间戳转换器 | [工具使用说明](https://github.com/yuan0727/yuan-timestamp-converter/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-date-calculator` | 日期天数计算器 | [工具使用说明](https://github.com/yuan0727/yuan-date-calculator/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
+| `yuan-id-photo-compressor` | 报名照片压缩与证件照尺寸工具 | [工具使用说明](https://github.com/yuan0727/yuan-id-photo-compressor/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
