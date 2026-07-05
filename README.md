@@ -21,3 +21,4 @@
 | `yuan-hello` | 问候语生成器 | [工具使用说明](https://github.com/yuan0727/yuan-hello/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-password-generator` | 随机密码生成器 | [工具使用说明](https://github.com/yuan0727/yuan-password-generator/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-timezone-converter` | 时区时间转换器 | [工具使用说明](https://github.com/yuan0727/yuan-timezone-converter/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
+| `yuan-text-counter` | 文本计数器 | [工具使用说明](https://github.com/yuan0727/yuan-text-counter/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
