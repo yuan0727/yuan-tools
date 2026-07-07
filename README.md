@@ -26,3 +26,4 @@
 | `yuan-date-calculator` | 日期天数计算器 | [工具使用说明](https://github.com/yuan0727/yuan-date-calculator/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-id-photo-compressor` | 报名照片压缩与证件照尺寸工具 | [工具使用说明](https://github.com/yuan0727/yuan-id-photo-compressor/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-image-compressor` | 图片压缩到指定大小工具 | [工具使用说明](https://github.com/yuan0727/yuan-image-compressor/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
+| `yuan-pdf-toolkit` | PDF 压缩合并拆分工具 | [工具使用说明](https://github.com/yuan0727/yuan-pdf-toolkit/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
