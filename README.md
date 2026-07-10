@@ -28,3 +28,4 @@
 | `yuan-image-compressor` | 图片压缩到指定大小工具 | [工具使用说明](https://github.com/yuan0727/yuan-image-compressor/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-pdf-toolkit` | PDF 压缩合并拆分工具 | [工具使用说明](https://github.com/yuan0727/yuan-pdf-toolkit/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-typhoon-impact-checker` | 台风影响速查器 | [工具使用说明](https://github.com/yuan0727/yuan-typhoon-impact-checker/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
+| `yuan-address-parser` | 中文地址拆分清洗器 | [工具使用说明](https://github.com/yuan0727/yuan-address-parser/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
