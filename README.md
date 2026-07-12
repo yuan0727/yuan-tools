@@ -15,6 +15,7 @@
 
 | 项目名称 | 中文名称 | 工具使用说明 |
 |---|---|---|
+| `yuan-image-converter` | 图片格式转换器 | [工具使用说明](https://github.com/yuan0727/yuan-image-converter/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-image-redactor` | 图片打码工具 | [工具使用说明](https://github.com/yuan0727/yuan-image-redactor/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-qr-generator` | 二维码生成器 | [工具使用说明](https://github.com/yuan0727/yuan-qr-generator/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
 | `yuan-json-toolkit` | JSON 工具箱 | [工具使用说明](https://github.com/yuan0727/yuan-json-toolkit/blob/main/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md) |
